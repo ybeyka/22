@@ -1,0 +1,6 @@
+[INFO] 26.09.2023 22:53:42 - Application started
+[ERROR] 26.09.2023 22:53:42 - Log file at path E:\22\your_log_file.txt does not exist
+[INFO] 26.09.2023 22:53:42 - Application finished
+[INFO] 26.09.2023 23:10:40 - Application started
+[INFO] 26.09.2023 23:10:40 - Report has been created successfully
+[INFO] 26.09.2023 23:10:40 - Application finished

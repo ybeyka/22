@@ -1,0 +1,4 @@
+Log File Analysis Report
+Number of Error messages: 1
+Number of Warning messages: 1
+Number of Info messages: 4
